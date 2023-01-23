@@ -5,13 +5,6 @@ Projeto clone do Pinia, tecnologia que oferece uma experiência de desenvolvimen
 
 <br>![2023-01-17-09-33-08](https://user-images.githubusercontent.com/105603692/212901037-9feda973-00e7-401d-bd10-6ac5b9be0e17.gif)
 
-
-<h1>Descrição</h1>
-<h3>Gostaria de testar seus conhecimentos gerais? É essa sua oportunidade!</h3>
-<p>Quiz projetado para praticar Vue JS. O quiz tem 25 questões de conhecimentos gerais.</p>
-<p>Jogue agora mesmo!</p>
-
-
 <hr>
 <br>
 
