@@ -1,5 +1,5 @@
 # Clone do Pinia
-Projeto clone do Pinia, tecnologia que oferece uma experiência de desenvolvimento aprimorada em Vue js. Resolvi desenvolver esse projeto para praticar mais limpeza, estruturação e organização de código com Vue js.
+Projeto clone do Pinia, tecnologia que oferece uma experiência de desenvolvimento aprimorada em Vue js. Resolvi desenvolver esse projeto para praticar mais limpeza, estruturação e organização de código com Vue js. Dito isso decidi utilizar o site do https://pinia.vuejs.org/ como referência.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Desenvolvido&color=green&style=for-the-badge)
 
